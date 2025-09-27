@@ -1,0 +1,14 @@
+{
+  "name": "timestamp-camera-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^1.4.5",
+    "cors": "^2.8.5"
+  }
+}
